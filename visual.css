@@ -1,0 +1,41 @@
+body {
+  margin: 0 auto;
+  width: 80%;
+  max-width: 1500px;
+}
+
+p{
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: #3D3D3D;
+    background-color: #E1EDF2;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom: 2px solid black;
+}
+
+.logo {
+    position: relative;
+    top: 5px;
+    padding-bottom: 5px;
+    width: 150px;
+    height: auto;
+}
+
+figure{
+    text-align: center;
+    background-color:whitesmoke;
+    border: 1px solid;
+    border-color:#b0acac;
+}
+
+figcaption{
+    font-family: Verdana, Tahoma, sans-serif;
+    color: lightgrey;
+}
